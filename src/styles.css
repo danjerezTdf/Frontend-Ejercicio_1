@@ -1,0 +1,21 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font: size 12;
+  background-color: rgb(204, 204, 204);
+}
+p {
+  text-align: justify;
+}
+
+.center {
+  width: 600px;
+  height: 200px;
+  line-height: 200px;
+  margin: 0px auto;
+  text-align: center;
+  background-color: #cccccc;
+}
+
+.center img {
+  vertical-align: middle;
+}
