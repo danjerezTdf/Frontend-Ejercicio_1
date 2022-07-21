@@ -9,6 +9,9 @@ p {
 span {
   font-weight: bold;
 }
+li {
+  list-style-type: lower-latin;
+}
 .center {
   width: 600px;
   height: 200px;
