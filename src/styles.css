@@ -9,7 +9,7 @@ p {
 span {
   font-weight: bold;
 }
-li {
+ol {
   list-style-type: lower-latin;
 }
 .center {
