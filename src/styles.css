@@ -6,7 +6,9 @@ body {
 p {
   text-align: justify;
 }
-
+span {
+  font-weight: bold;
+}
 .center {
   width: 600px;
   height: 200px;
